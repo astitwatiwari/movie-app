@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mapsButton"
+        android:title="Maps"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_location_on_red_24dp"/>
+
+    <item android:id="@+id/userProfileButton"
+        android:title="UserProfile"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_account_circle_red_24dp"/>
+
+</menu>

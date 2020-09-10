@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="api_key">75b47ffd5a9492017a83f725f04d58c7</string>
+    <string name ="maps_api_key">AIzaSyAy4jj_2Hu-8agW8jijN0ZA1gnSRxI6lhE</string>
+    <string name="places_api_key">AIzaSyCLD3Vk2WfOJB3j7CfInk-3rvaKLWMMlNA</string>
+    <string name="places_base_url">https://maps.googleapis.com/</string>
+    <string name="base_url">https://api.themoviedb.org/3/</string>
+</resources>
